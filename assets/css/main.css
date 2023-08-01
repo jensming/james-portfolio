@@ -2643,6 +2643,14 @@ input, select, textarea {
 			width: 6.25em;
 		}
 
+		#header .icons {
+			margin: 1em 0 1em 0;
+		}
+	
+			#header .icons a {
+				color: rgba(255, 255, 255, 0.75);
+			}
+
 /* Footer */
 
 	#footer .icons {
@@ -2691,7 +2699,7 @@ input, select, textarea {
 		#main > section {
 			border-top: solid 2px #efefef;
 			margin: 4em 0 0 0;
-			padding: 4em 0 0 0;
+			padding: 2em 0 0 0;
 		}
 
 			#main > section:first-child {
