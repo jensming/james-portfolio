@@ -121,9 +121,14 @@ input, select, textarea {
 			text-decoration: none;
 		}
 
-	strong, b {
-		color: #787878;
+	strong {
+		color: #000000;
 		font-weight: 400;
+	}
+
+	b {
+		color: #000000;
+		font-size: 23px;
 	}
 
 	em, i {
